@@ -12,9 +12,6 @@
     "url": "https://github.com/InstaGIS/backbone-backgrid-js/issues"
   },
   "homepage": "https://www.instagis.com",
-  "engines": {
-    "node": "6.0.x"
-  },
   "files": [
     "src",
     "dist"
